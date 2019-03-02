@@ -8,7 +8,7 @@ window.onload=function(){
 		if(Dianji==1){
 	   			alert("小姐姐在考虑一下呗");
 	   }else if(Dianji==2){
-		   		alert("你是我见过的最帅气善良可爱的男孩");
+		   		alert("你是我见过的美丽的女孩子");
 		   		
 	   }else if(Dianji==3){
 		   		alert("一生一世爱你");
@@ -22,6 +22,8 @@ window.onload=function(){
 		   		alert("房子写你名");
 	  }else if(Dianji==7){
 		   		alert("工资全上交");
+	  }else if (Dianji==8){
+		  		alert("端茶倒水");
 		  		Dianji=1;
 	  }
 
